@@ -1,5 +1,4 @@
-#최솟값 만들기
-
+#210621
 def solution(A,B):
     sum = 0
 
